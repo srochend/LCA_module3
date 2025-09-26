@@ -1,0 +1,12 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+      "sql_between_nodes": "./sql_between_nodes.py:graph",
+      "sql_within_nodes": "./sql_within_nodes.py:graph"
+    },
+    "env": "./.env",
+    "python_version": "3.11",
+    "dependencies": [
+      "."
+    ]
+  }
